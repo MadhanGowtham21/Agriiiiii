@@ -6,3 +6,4 @@ twilio
 matplotlib
 joblib
 seaborn
+scikit-learn
